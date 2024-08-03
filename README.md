@@ -1,11 +1,9 @@
 ![MasterHead](https://github.com/user-attachments/assets/0dd1d79c-6fab-47a9-8d00-2903c2bb4eff)
 <h1 align="center">Hi 👋, I'm Bismark Abban</h1>
 <h3 align="center">Fullstack Developer passionate about coding and technology. I'm committed to using my skills to make a positive impact.</h3>
-<img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"/>
+<img align= "right" alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=redemption19&label=Profile%20views&color=0e75b6&style=flat" alt="redemption19" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=redemption19" alt="redemption19" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/abbanbismark" target="blank"><img src="https://img.shields.io/twitter/follow/abbanbismark?logo=twitter&style=for-the-badge" alt="abbanbismark" /></a> </p>
 
@@ -39,3 +37,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=redemption19&show_icons=true&locale=en" alt="redemption19" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=redemption19&" alt="redemption19" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=redemption19" alt="redemption19" /></a> </p>
