@@ -26,7 +26,7 @@ I love creating seamless digital experiences. One of my proudest projects involv
   <a href="https://linkedin.com/in/bismark-abban" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://salesp07.github.io" target="_blank">
+  <a href="https://redeemtech.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
   </a>
   <a href="https://github.com/Redemption19" target="_blank">
@@ -150,12 +150,47 @@ I love creating seamless digital experiences. One of my proudest projects involv
       <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   </p>
+<hr/>
 
+  <h2>📊 Stats and Activity</h2>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=redemption19&show_icons=true&locale=en&layout=compact" alt="redemption19" /></p>
+  <h3>🔥 Streak Stats</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=redemption19&show_icons=true&locale=en" alt="redemption19" /></p>
+  <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+  <p>
+    <a href="https://github.com/Redemption19/github-readme-streak-stats">
+      <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Redemption19's streak" src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=Redemption19&theme=monokai-metallian&hide_border=true"/>
+    </a>
+   
+  </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=redemption19&" alt="redemption19" /></p>
+  <h3>💻 GitHub Profile Stats</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=redemption19" alt="redemption19" /></a> </p>
+  <!-- https://github.com/anuraghazra/github-readme-stats -->
+
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Redemption19's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Redemption19&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Redemption19's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Redemption19&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <br/>
+
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  
+  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Redemption19's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Redemption19&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+  <h3>⚡ Recent GitHub Activity</h3>
+
+  <!-- https://github.com/jamesgeorge007/github-activity-readme -->
+  <!--START_SECTION:activity-->
+
+1. 🎉 Merged PR [#710](https://github.com/Redemption19/github-readme-streak-stats/pull/710) in [Redemption19/github-readme-streak-stats](https://github.com/Redemption19/github-readme-streak-stats)
+2. 🎉 Merged PR [#1154](https://github.com/Redemption19/custom-icon-badges/pull/1154) in [Redemption19/custom-icon-badges](https://github.com/Redemption19/custom-icon-badges)
+3. 🎉 Merged PR [#1155](https://github.com/Redemption19/custom-icon-badges/pull/1155) in [Redemption19/custom-icon-badges](https://github.com/Redemption19/custom-icon-badges)
+4. 🎉 Merged PR [#322](https://github.com/Redemption19/readme-typing-svg/pull/322) in [Redemption19/readme-typing-svg](https://github.com/Redemption19/readme-typing-svg)
+5. 🗣 Commented on [#322](https://github.com/Redemption19/readme-typing-svg/issues/322) in [Redemption19/readme-typing-svg](https://github.com/Redemption19/readme-typing-svg)
+<!--END_SECTION:activity-->
+<hr/>
+<h2>🏷️ Holopin Badges</h2>
+<p><a href="https://holopin.io/@Redemption19"><img src="https://holopin.me/Redemption19" alt="@Redemption19's Holopin board"></a></p>
+
