@@ -39,7 +39,7 @@ I love creating seamless digital experiences. One of my proudest projects involv
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   <a href="https://twitter.com/abbanbismark" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" />
   </a>
 </div>
 <hr/>
@@ -191,6 +191,5 @@ I love creating seamless digital experiences. One of my proudest projects involv
 5. 🗣 Commented on [#322](https://github.com/Redemption19/readme-typing-svg/issues/322) in [Redemption19/readme-typing-svg](https://github.com/Redemption19/readme-typing-svg)
 <!--END_SECTION:activity-->
 <hr/>
-<h2>🏷️ Holopin Badges</h2>
-<p><a href="https://holopin.io/@Redemption19"><img src="https://holopin.me/Redemption19" alt="@Redemption19's Holopin board"></a></p>
+
 
