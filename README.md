@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-bad" style="height: 30px;"/>
 <p align="left">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=25&duration=3000&pause=1000&color=3A25F7&width=435&lines=Hi%2C+I'm+Bismark+Abban;Full-stack+Web+and+App+developer;Graphic+Designer;Experienced+UI%2FUX+Designer;5%2B+years+of+coding+experience;Always+learning+new+things" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=25&duration=3000&pause=1000&color=ff5722&width=435&lines=Hi%2C+I'm+Bismark+Abban;Full-stack+Web+and+App+developer;Graphic+Designer;Experienced+UI%2FUX+Designer;5%2B+years+of+coding+experience;Always+learning+new+things" alt="Typing SVG" /></a>
 </p>
 
 ![MasterHead](https://github.com/user-attachments/assets/0dd1d79c-6fab-47a9-8d00-2903c2bb4eff)
