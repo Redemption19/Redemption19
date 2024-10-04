@@ -26,7 +26,7 @@ I love creating seamless digital experiences. One of my proudest projects involv
   <a href="https://linkedin.com/in/bismark-abban" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://redeemtech.netlify.app/" target="_blank">
+  <a href="https://redeemit.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
   </a>
   <a href="https://github.com/Redemption19" target="_blank">
